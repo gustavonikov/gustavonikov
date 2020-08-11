@@ -4,7 +4,7 @@
 
 💻I'm a developer, studying Front/Back-end in Javascript 😊
 
-Have knowledge on others languages like:  🔸 Python    🔸 Vb.net 
+📚Have knowledge on others languages like:  🔸 Python    🔸 Vb.NET 
 
 🛠I use tools like:  🔸 ReactJS    🔸 node.js 
 
