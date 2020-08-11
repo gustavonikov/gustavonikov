@@ -7,16 +7,19 @@
 Have knowledge on others languages like: 
 
   • Python 
+  
   • Vb.net 
 
 🛠I use tools like: 
 
   • ReactJS 
+  
   • node.js 
 
 😰 Not know much about, but would like to know: 
 
   • Cloud services like AWS 
+  
   • Cibersecurity area
 
 📍And i'm always open to try and learning about new stuffs!
