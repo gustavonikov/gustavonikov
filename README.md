@@ -8,6 +8,6 @@
 
 🛠I use tools like:  🔸 ReactJS    🔸 node.js 
 
-😰 Not know much about, but would like to know:  🔸 Cloud services like AWS    🔸 Cibersecurity area
+😰 Not know much about, but would like to know:  🔸 Cloud    🔸 Cibersecurity area
 
 📍 And i'm always open to try and learning about new stuffs!
