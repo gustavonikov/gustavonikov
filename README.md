@@ -4,7 +4,7 @@
 
 💻I'm starting to developing, studying Front/Back-end in Javascript 😊
 
-📚Have knowledge on others languages like:  🔸 Python    🔸 Vb.NET 
+📚Have knowledge on others languages like:  🔸 Python    🔸 Vb.NET 🔸 Typescript
 
 🛠I use tools like:  🔸 ReactJS    🔸 node.js 
 
