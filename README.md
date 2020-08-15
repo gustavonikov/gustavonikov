@@ -10,4 +10,4 @@
 
 😰 Not know much about, but would like to know:  🔸 Cloud    🔸 Cibersecurity   🔸 Machine Learning
 
-📍 And i'm always open to try and learn about new stuffs!
+📍 And i'm always open to try and live new stuffs!
