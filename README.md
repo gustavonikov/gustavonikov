@@ -11,3 +11,5 @@
 😰 Not know much about, but would like to know:  🔸 Cloud    🔸 Cibersecurity   🔸 Machine Learning
 
 📍 And i'm always open to try and live new stuffs!
+
+Jesus is King 👑, be light✨ wherever u r!
