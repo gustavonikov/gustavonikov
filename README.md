@@ -10,4 +10,4 @@
 
 😰 Not know much about, but would like to know:  🔸 Cloud    🔸 Cibersecurity area
 
-📍 And i'm always open to try and learning about new stuffs!
+📍 And i'm always open to try and learn about new stuffs!
