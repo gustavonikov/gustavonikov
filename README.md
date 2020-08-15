@@ -1,6 +1,6 @@
 # Hi👋, welcome to my profile 😆!
 
-🧑🏻I'm Gustavo Chaves, a guy passionate about learning and solving problems!
+🧑🏻I'm Gustavo Chaves, a guy passionate about learning, understand things and solving problems!
 
 💻 I'm starting to developing, studying Front/Back-end in Javascript 😊
 
