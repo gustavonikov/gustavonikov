@@ -8,6 +8,6 @@
 
 🛠 Use tools like:  🔸 ReactJS  🔸 ReactNative  🔸 node.js 🔸 and others
 
-😰 Not know much about, but would like to know:  🔸 Cloud    🔸 Cibersecurity
+😰 Not know much about, but would like to know:  🔸 Cloud    🔸 Cibersecurity   🔸 Machine Learning
 
 📍 And i'm always open to try and learn about new stuffs!
