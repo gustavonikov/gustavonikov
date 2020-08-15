@@ -1,4 +1,4 @@
-# Hi, Welcome to my profile 👋😆!
+# Hi👋, welcome to my profile 😆!
 
 🧑🏻I'm Gustavo Chaves, a guy passionate about learning and solving problems!
 
