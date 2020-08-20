@@ -12,4 +12,4 @@
 
 📍 And i'm always open to try and live new stuffs!
 
-Jesus is King 👑, be light✨ wherever u r!
+Jesus is King 👑, be light wherever u r✨!
