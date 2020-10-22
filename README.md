@@ -1,8 +1,8 @@
-# Hi👋, welcome to my profile 😆!
+# Hi👋, welcome to my profile!
 
 🧑🏻I'm Gustavo Chaves, a guy passionate about learning, understand things (whatever they r haha) and solving problems!
 
-💻 I'm starting to developing, studying Front/Back-end in Javascript 😊
+💻 I'm starting to developing, studying Front/Back-end in Javascript 
 
 📚 Have knowledge on others languages like:  🔸 Python    🔸 Vb.NET 🔸 Typescript
 
