@@ -4,7 +4,7 @@
 
 💻 Javascript FullStack Developer, with more focus on Front-end development.
 
-📚 Have knowledge on others languages like:  🔸 Python    🔸 Vb.NET 🔸 Typescript
+📚 Have knowledge on others languages like:  🔸 Python    🔸 Visual Basic    🔸 Typescript
 
 🛠 Use tools like:  🔸 ReactJS  🔸 ReactNative  🔸 Express 🔸 and others
 
