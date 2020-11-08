@@ -2,7 +2,7 @@
 
 🧑🏻I'm Gustavo Chaves, a guy passionate about learning, solving problems and of course, coding!
 
-💻 I'm starting to developing, studying Front/Back-end in Javascript 
+💻 Javascript FullStack Developer, with more focus on Front-end development.
 
 📚 Have knowledge on others languages like:  🔸 Python    🔸 Vb.NET 🔸 Typescript
 
