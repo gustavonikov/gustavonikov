@@ -4,11 +4,13 @@
 
 💻 Javascript FullStack Developer, with more focus on Front-end development.
 
-📚 Other known languages: 
+📚 Other known languages:
+
 🔸 Python
 🔸 Visual Basic
 
-🛠 Tools: 
+🛠 Tools:
+ 
 🔸 ReactJs    
 🔸 ReactNative    
 🔸 Node.js    
