@@ -4,9 +4,9 @@
 
 💻 Javascript FullStack Developer, with more focus on Front-end development.
 
-📚 Other known languages: 🔸 Python    🔸 Visual Basic
+📚 Other known languages: • Python    • Visual Basic
 
-🛠 Tools: 🔸 ReactJs    🔸 ReactNative    🔸 Node.js    🔸 and others that you can find on my repositories
+🛠 Tools: • ReactJs    • ReactNative    • Node.js    • and others that you can find on my repositories
 
 📍 I'm always open to try and live new stuffs!
 
