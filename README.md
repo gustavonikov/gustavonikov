@@ -4,13 +4,9 @@
 
 💻 Javascript FullStack Developer, with more focus on Front-end development.
 
-📚 Advanced knowledge on:  🔸 Javascript  🔸 ReactJs  🔸 ReactNative  🔸 Node.js  🔸 Python
-🔸 HTML5  🔸 CSS;
+📚 Other known languages: 🔸 Python 🔸 Visual Basic
 
-📚 Intermediate knowledge on: 🔸 Typescript  🔸 Visual Basic  🔸 Bootstrap  🔸 SASS  🔸 SQlite 
-🔸 MongoDB;
-
-📚 Basic knowledge on: 🔸 Microservices  🔸 Docker  🔸 Kubernetes  🔸 PostgreSQL  🔸 NextJs  🔸 C & C++
+🛠 Tools: 🔸 ReactJs  🔸 ReactNative 🔸 Node.js  🔸 and others that you can find on my repositories
 
 📍 I'm always open to try and live new stuffs!
 
