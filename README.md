@@ -6,12 +6,12 @@
 
 📚 Other known languages:
 
-🔸 Python
-🔸 Visual Basic
+    🔸 Python
+    🔸 Visual Basic
 
 🛠 Tools:
  
-🔸 ReactJs    🔸 ReactNative    🔸 Node.js    🔸 and others that you can find on my repositories
+    🔸 ReactJs    🔸 ReactNative    🔸 Node.js    🔸 and others that you can find on my repositories
 
 📍 I'm always open to try and live new stuffs!
 
