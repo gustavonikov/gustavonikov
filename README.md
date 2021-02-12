@@ -10,7 +10,7 @@
 
 🛠 Tools:
  
-    🔸 ReactJs    🔸 ReactNative    🔸 Typescript   🔸 and others that you can find on my repositories
+    🔸 ReactJs    🔸 ReactNative    🔸 NextJs   🔸 Typescript   🔸 and others that you can find on my repositories
 
 📍 I'm always open to learn more and live new experiences!
 
