@@ -10,7 +10,7 @@
 
 🛠 Tools:
  
-    🔸 ReactJs    🔸 Vue.Js    🔸 NextJs   🔸 Typescript   🔸Node.Js  🔸 and others that you can find on my repositories
+    🔸 ReactJs    🔸 Vue.Js    🔸 NextJs   🔸 Typescript   🔸Node.Js  🔸 and others x)
 
 📍 I'm always open to learn more and live new experiences!
 
