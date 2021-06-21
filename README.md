@@ -6,7 +6,7 @@
 
 📚 Other known languages:
 
-    🔸 Python     🔸 Visual Basic 🔸 PHP
+    🔸 Python     🔸 Visual Basic      🔸 PHP
 
 🛠 Tools:
  
