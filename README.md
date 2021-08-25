@@ -4,13 +4,8 @@
 
 💻 Javascript FullStack Developer, with more focus on Front-end development.
 
-📚 Other known languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavonikov)](https://github.com/gustavonikov/github-readme-stats)
 
-    🔸 Python     🔸 Visual Basic     🔸 PHP
-
-🛠 Tools:
- 
-    🔸 ReactJs    🔸 Vue.Js    🔸 NextJs   🔸 Typescript   🔸Node.Js  🔸 and others x)
 
 📍 I'm always open to learn more and live new experiences!
 
