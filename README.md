@@ -4,7 +4,7 @@
 
 💻 Javascript FullStack Developer, with more focus on Front-end development.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavonikov&show_icons=true)](https://github.com/gustavonikov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavonikov&show_icons=true&count_private=true)](https://github.com/gustavonikov/github-readme-stats)
 
 
 [![Stats](https://github-readme-stats.vercel.app/api/?username=gustavonikov)](https://github.com/gustavonikov/github-readme-stats)
