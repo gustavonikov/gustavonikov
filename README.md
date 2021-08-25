@@ -7,8 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavonikov)](https://github.com/gustavonikov/github-readme-stats)
 
 
-[![Stats](https://github-readme-stats.vercel.app/api/?username=gustavonikov&show_icons=true&count_private=true)](https://github.com/gustavonikov/github-readme-stats)
-
+[![Stats](https://github-readme-stats.vercel.app/api/?username=gustavonikov&count_private=true)](https://github.com/gustavonikov/github-readme-stats)
 
 📍 I'm always open to learn more and live new experiences!
 
