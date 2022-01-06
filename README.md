@@ -8,4 +8,8 @@ Despite loving Web and Mobile development, i want to experience being a Game Dev
 
 📍 I'm always open to learn more and live new experiences!
 
+Contato:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavonikov/)](https://www.linkedin.com/in/juliajpereira/) 
+
 Jesus is King 👑
