@@ -11,7 +11,7 @@ any project that needs help, let me know :)
 
 📍 I'm always open to learn more and live new experiences!
 
-Contato:
+Contact:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavonikov/)](https://www.linkedin.com/in/gustavonikov/) 
 
