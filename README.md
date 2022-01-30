@@ -1,4 +1,4 @@
-# Hi👋, welcome to my profile!
+# Hi👋, welcome to my profile :)
 
 A guy passionate about learning, solving problems and of course, coding!
 
